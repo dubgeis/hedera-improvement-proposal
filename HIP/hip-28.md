@@ -10,7 +10,7 @@
 
 ## Abstract
 
-ntroduce a recommended path of the implementation of minting and maintenance of ecological tokens based on IWA sustainability specifications from the voluntary ecological markets taskforce. This combines and is the first use-case of Dynamics Non-Fungible / Fungible Tokens (dNFT/dFT) on hedera to provide an ability for tokens to attach an unlimited amount of evidence.
+Introduce a recommended path of the implementation of minting and maintenance of ecological tokens based on IWA sustainability specifications from the voluntary ecological markets taskforce. This combines and is the first use-case of Dynamics Non-Fungible / Fungible Tokens (dNFT/dFT) on hedera to provide an ability for tokens to attach an unlimited amount of evidence.
 
 note: dNFTs will form a separate HIP at a generic level, but were initially designed to meet the needs of carbon offsetting.
 
